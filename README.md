@@ -9,7 +9,6 @@ In this tutorial, it was explored data from [TidyTuesday: A weekly data project 
 ***
 
 ### Further information about R-Ladies Frankfurt
-
 Upcoming events: [R-Ladies Frankfurt meetup group](https://www.meetup.com/rladies-frankfurt/)
 
 Additional [presentations and materials](https://github.com/rladies/meetup-presentations_frankfurt)
