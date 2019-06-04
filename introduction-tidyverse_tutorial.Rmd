@@ -68,13 +68,11 @@ class: inverse, center, middle
 ---
 # R-Ladies
 
-<!-- div style="vertical-align: middle;display:inline-block; width:400px;">  -->
-
 .pull-left[
 ![](https://rladies.org/wp-content/uploads/2016/12/R-LadiesGlobal.png)
 </div> 
 ]
-<!-- # is a worldwide organization whose mission is to promote gender diversity in the R community -->
+
 .pull-right[
 ###**Worldwide** organization that promotes 
 
