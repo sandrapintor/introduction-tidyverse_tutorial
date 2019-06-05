@@ -2,7 +2,7 @@
 
 # Introduction to the Tidyverse: Data Wrangling
 
-This repository contains the code which resulted in the presentation for 2nd meetup of [R-Ladies Frankfurt](https://github.com/rladies/meetup-presentations_frankfurt). This presentation consisted of a tutorial that explored the tidyverse, in particular, some packages used for data wrangling: `readr`, `tidyr`, and `dplyr`.
+This repository contains the code which resulted in the presentation for 2nd meetup of [R-Ladies Frankfurt](https://github.com/rladies/meetup-presentations_frankfurt). This presentation consisted of a tutorial that explored the `tidyverse`, in particular, some packages used for data wrangling: `readr`, `tidyr`, and `dplyr`.
 
 ### Data
 In this tutorial, it was explored data from [TidyTuesday: A weekly data project in R from the R4DS online learning community](https://github.com/rfordatascience/tidytuesday).
